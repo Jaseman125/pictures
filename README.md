@@ -2,4 +2,7 @@
 # JASEMAN.COM PICTURES REPOSITORY
 ## Overview
 This repository contains the content for the Pictures page on JASEMAN.COM.<br/>
+There are several sub-folders for different picture categories.<br/>
 There is another copy of this collection of pictures in my Pinterest account.<br/>
+pictures.html is the webpage you will see on phones and devices with < 1900 pixel screen width.<br/>
+pictures-wide.html file is the webpage you will see on PCs and devices with > 1900 pixel screen width.<br/>
