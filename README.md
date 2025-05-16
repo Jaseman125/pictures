@@ -1,4 +1,5 @@
-![Pictures Icon](https://jaseman125.github.io/img/pictures.png)
+<img src="https://jaseman125.github.io/img/pictures.png" height="200">
+
 # JASEMAN.COM PICTURES REPOSITORY
 ## Overview
 This repository contains the content for the Pictures page on JASEMAN.COM.<br/>
